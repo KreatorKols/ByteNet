@@ -1,6 +1,7 @@
 {
+  "name": "bytenet",
+  "globIgnorePaths": [ "**/.package-lock.json" ],
   "tree": {
     "$path": "src"
-  },
-  "name": "bytenet"
+  }
 }
